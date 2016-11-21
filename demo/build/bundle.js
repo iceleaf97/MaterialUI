@@ -22294,8 +22294,13 @@
 	    line: {
 	        width: '60%'
 	    },
-	    img: {
-	        width: '100%'
+	    box: {
+	        width: '100%',
+	        height: '70%'
+	    },
+	    paint: {
+	        position: 'relatvie',
+	        height: '100%'
 	    },
 
 	    card: {
@@ -22387,7 +22392,13 @@
 	                        },
 	                        '1-2-3-4-5'
 	                    ),
-	                    _react2.default.createElement('img', { style: styles.img, src: 'images/shader3.PNG' }),
+	                    _react2.default.createElement(
+	                        'div',
+	                        { style: styles.box },
+	                        _react2.default.createElement('img', { style: styles.paint, src: 'images/shader3.PNG' })
+	                    ),
+	                    _react2.default.createElement('br', null),
+	                    _react2.default.createElement('br', null),
 	                    _react2.default.createElement(
 	                        'h2',
 	                        { style: styles.slogan },
