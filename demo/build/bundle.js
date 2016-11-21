@@ -22291,9 +22291,6 @@
 	        color: _colors.amber500
 	    },
 
-	    line: {
-	        width: '60%'
-	    },
 	    box: {
 	        width: '100%',
 	        height: '70%'
