@@ -22295,9 +22295,7 @@
 	        width: '60%'
 	    },
 	    img: {
-	        width: '100%',
-
-	        overflow: 'hidden'
+	        width: '100%'
 	    },
 
 	    card: {
