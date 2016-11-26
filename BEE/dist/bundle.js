@@ -22266,7 +22266,7 @@
 	    p_background: {
 	        width: '100vw',
 	        height: '100vh',
-	        backgroundImage: 'url("images/BEE.png")',
+	        backgroundImage: 'url("images/Bee2.png")',
 	        backgroundPosition: 'center center',
 	        backgroundSize: 'auto 100%',
 	        backgroundRepeat: 'no-repeat'
